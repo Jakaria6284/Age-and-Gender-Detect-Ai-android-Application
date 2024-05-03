@@ -54,6 +54,7 @@ public class age_gender_recognition {
        width=grayscaleImage.width();
        int absoluteFaceSize=(int)(height*0.1);
       MatOfRect faces=new MatOfRect();
+      //hell0
 
       if(cascadeClassifier!=null)
       {
